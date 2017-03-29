@@ -1,0 +1,11 @@
+CourseClient  - Sample Output
+
+Joshua Steward
+
+Course Code: CS4
+Course Description: A great class all about math
+Number of Credits in Course: 4
+Course CS4 is A great class all about math, and is 4 credits.
+The last number in course CS2 is 2.
+
+Process finished with exit code 0

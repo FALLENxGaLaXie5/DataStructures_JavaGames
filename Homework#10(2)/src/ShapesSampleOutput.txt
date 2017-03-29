@@ -1,0 +1,33 @@
+ShapeClient Sample Output
+
+Joshua Steward
+
+The circle1 is: radius: 5.0
+The area of circle1 is: 78.54
+The perimiter of circle1 is: 31.42
+
+The circle2 is: radius: 15.0
+The area of circle2 is: 706.86
+The perimiter of circle2 is: 94.25
+
+circle1 and circle2 are not equal - correct
+Chenging the radius of circle1 to 15
+circle1 and circle2 are not equal - incorrect
+
+circle2 after changing radius to -3 is: radius: -3.0
+The rectangle1 is: width: 5.0
+height: 5.0
+The area of rectangle1 is: 25.00
+The perimiter of rectangle1 is: 20.00
+
+The rectangle2 is: width: 15.0
+height: 20.0
+The area of rectangle2 is: 300.00
+The perimiter of rectangle2 is: 70.00
+
+rectangle1 and rectangle2 are not equal - correct
+rectangle1 and rectangle2 are not equal - incorrect
+rectangle1 after changing width to -3 and hight to 0 is: width: -3.0
+height: 0.0
+
+Process finished with exit code 0

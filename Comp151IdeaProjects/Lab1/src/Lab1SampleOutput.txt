@@ -1,0 +1,33 @@
+Sample Output- Joshua Steward
+
+How many coins/bills can fit in your piggy bank?
+10
+How many coins/bills should we add to the piggy bank?
+8
+USER'S TURN
+Added 0.1 to your piggy bank
+Added 0.01 to your piggy bank
+Added 0.01 to your piggy bank
+Added 0.01 to your piggy bank
+Added 20.0 to your piggy bank
+Added 0.1 to your piggy bank
+Added 10.0 to your piggy bank
+Added 20.0 to your piggy bank
+Added 0.05 to your piggy bank
+Added 1.0 to your piggy bank
+0 out of 10 coins/bills landed HEADS
+Computer's TURN
+Added 50.0 to your piggy bank
+Added 0.5 to your piggy bank
+Added 20.0 to your piggy bank
+Added 20.0 to your piggy bank
+Added 0.05 to your piggy bank
+Added 0.5 to your piggy bank
+Added 0.5 to your piggy bank
+Added 0.1 to your piggy bank
+Added 0.01 to your piggy bank
+Added 100.0 to your piggy bank
+0 out of 10 coins/bills landed HEADS
+Computer has more heads. WINNER
+
+Process finished with exit code 0

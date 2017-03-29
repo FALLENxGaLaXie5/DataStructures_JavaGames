@@ -1,0 +1,563 @@
+Lab 8 Sample Output
+
+
+Joshua Steward
+
+
+
+Application #1 SampleOutput
+
+
+**************  TESTING THE CIPHER  **************
+
+--->The original message encoded is:
+Fxi(gvyl~^udi|x,^z\$zqmvimqm?p(Xrn%mitgyr|r|\v}%mompyzv(Xg~t~p6
+--->The original message decoded is:
+All programmers are playwrights and all computers are lousy actors.
+
+--->The original message encoded is:
+Klowqqj$xt,bt\zky{o(ks*x`k\w}1,Vwl$rf?b(ks*ymhmxrj,p|Xm|x:+6
+--->The original message decoded is:
+There is no elevator to success, You have to take the stairs...
+
+--->The original message encoded is:
+nov{njghl$kx#qv{gw
+--->The original message decoded is:
+knowledge is power
+
+--->The original message encoded is:
+ubji"hds
+--->The original message decoded is:
+race car
+
+Process finished with exit code 0
+
+
+
+
+Application #2 Sample Output
+
+**************  TRAIN SIMULATION  **************
+
+Created station 0 time to next is 5
+Created station 1 time to next is 5
+Created station 2 time to next is 9
+Created station 3 time to next is 6
+Created station 4 time to next is 6
+Created station 5 time to next is 8
+Created station 6 time to next is 6
+Created station 7 time to next is 9
+Created station 8 time to next is 6
+Created station 9 time to next is 9
+-->Successfully created 10 stations
+***********  Starting the simulation  **********
+
+	Created train 1
+	Created passenger at station 0 heading to 1
+	Created passenger at station 1 heading to 5
+	Created passenger at station 4 heading to 9
+	Created passenger at station 0 heading to 6
+	Created passenger at station 1 heading to 2
+	Created passenger at station 7 heading to 8
+	Created passenger at station 2 heading to 3
+	Created passenger at station 0 heading to 3
+	Train 1 unloaded 0 passengers at station 0
+		loaded 3 passengers; Space left 7
+-->Time Marker 0	 passengers waiting: 5	 passengers on trains: 3
+
+	Created passenger at station 1 heading to 2
+	Created passenger at station 3 heading to 8
+	Created passenger at station 7 heading to 9
+-->Time Marker 1	 passengers waiting: 8	 passengers on trains: 3
+
+	Created passenger at station 5 heading to 7
+	Created passenger at station 5 heading to 7
+	Created passenger at station 2 heading to 3
+	Created passenger at station 5 heading to 7
+-->Time Marker 2	 passengers waiting: 12	 passengers on trains: 3
+
+	Created passenger at station 5 heading to 7
+	Created passenger at station 1 heading to 5
+	Created passenger at station 0 heading to 1
+	Created passenger at station 1 heading to 2
+	Created passenger at station 0 heading to 2
+	Created passenger at station 0 heading to 1
+-->Time Marker 3	 passengers waiting: 18	 passengers on trains: 3
+
+	Created passenger at station 1 heading to 5
+	Created passenger at station 1 heading to 5
+-->Time Marker 4	 passengers waiting: 20	 passengers on trains: 3
+
+	Created passenger at station 5 heading to 6
+	Created passenger at station 0 heading to 3
+	Created passenger at station 4 heading to 5
+	Created passenger at station 2 heading to 5
+	Created passenger at station 0 heading to 2
+	Created passenger at station 0 heading to 1
+	Created passenger at station 1 heading to 2
+-->Time Marker 5	 passengers waiting: 27	 passengers on trains: 3
+
+	Created passenger at station 4 heading to 6
+	Created passenger at station 4 heading to 8
+	Created passenger at station 0 heading to 8
+	Created passenger at station 3 heading to 4
+	Created passenger at station 0 heading to 5
+	Created passenger at station 0 heading to 2
+	Created passenger at station 1 heading to 4
+	Created passenger at station 3 heading to 4
+-->Time Marker 6	 passengers waiting: 35	 passengers on trains: 3
+
+	Created passenger at station 1 heading to 8
+-->Time Marker 7	 passengers waiting: 36	 passengers on trains: 3
+
+	Created passenger at station 0 heading to 4
+	Created passenger at station 7 heading to 9
+	Created passenger at station 3 heading to 7
+	Created passenger at station 3 heading to 8
+	Created passenger at station 3 heading to 7
+	Created passenger at station 4 heading to 5
+	Created passenger at station 3 heading to 5
+	Created passenger at station 3 heading to 5
+	Created passenger at station 1 heading to 2
+	Created passenger at station 0 heading to 4
+-->Time Marker 8	 passengers waiting: 46	 passengers on trains: 3
+
+	Created passenger at station 2 heading to 4
+	Created passenger at station 6 heading to 9
+	Created passenger at station 1 heading to 8
+	Created passenger at station 3 heading to 4
+	Created passenger at station 0 heading to 1
+	Created passenger at station 4 heading to 5
+	Created passenger at station 0 heading to 1
+	Created passenger at station 0 heading to 4
+	Created passenger at station 0 heading to 9
+-->Time Marker 9	 passengers waiting: 55	 passengers on trains: 3
+
+	Created train 2
+	Created passenger at station 0 heading to 5
+	Train 2 unloaded 0 passengers at station 0
+		loaded 10 passengers; Space left 0
+-->Time Marker 10	 passengers waiting: 46	 passengers on trains: 13
+
+	Created passenger at station 0 heading to 2
+	Created passenger at station 4 heading to 8
+	Created passenger at station 2 heading to 8
+	Created passenger at station 1 heading to 3
+	Created passenger at station 0 heading to 7
+	Created passenger at station 0 heading to 1
+	Created passenger at station 0 heading to 5
+	Created passenger at station 6 heading to 8
+	Created passenger at station 0 heading to 1
+	Created passenger at station 1 heading to 7
+	Created passenger at station 0 heading to 3
+-->Time Marker 11	 passengers waiting: 57	 passengers on trains: 13
+
+	Created passenger at station 0 heading to 3
+	Created passenger at station 3 heading to 8
+	Created passenger at station 4 heading to 6
+	Created passenger at station 5 heading to 7
+	Created passenger at station 1 heading to 5
+	Created passenger at station 1 heading to 5
+	Created passenger at station 4 heading to 5
+	Created passenger at station 2 heading to 4
+	Created passenger at station 3 heading to 7
+-->Time Marker 12	 passengers waiting: 66	 passengers on trains: 13
+
+	Created passenger at station 1 heading to 5
+	Created passenger at station 3 heading to 5
+	Created passenger at station 0 heading to 3
+	Created passenger at station 0 heading to 3
+	Created passenger at station 0 heading to 1
+	Created passenger at station 2 heading to 7
+	Created passenger at station 4 heading to 6
+-->Time Marker 13	 passengers waiting: 73	 passengers on trains: 13
+
+	Created passenger at station 1 heading to 5
+	Created passenger at station 0 heading to 1
+	Created passenger at station 0 heading to 5
+	Created passenger at station 3 heading to 8
+	Created passenger at station 1 heading to 4
+	Created passenger at station 2 heading to 3
+	Created passenger at station 0 heading to 1
+	Created passenger at station 4 heading to 5
+	Created passenger at station 5 heading to 9
+	Created passenger at station 1 heading to 2
+-->Time Marker 14	 passengers waiting: 83	 passengers on trains: 13
+
+	Created passenger at station 4 heading to 5
+	Created passenger at station 2 heading to 5
+	Created passenger at station 3 heading to 6
+	Created passenger at station 3 heading to 4
+	Created passenger at station 1 heading to 2
+	Created passenger at station 1 heading to 2
+	Created passenger at station 3 heading to 6
+-->Time Marker 15	 passengers waiting: 90	 passengers on trains: 13
+
+	Created passenger at station 1 heading to 3
+-->Time Marker 16	 passengers waiting: 91	 passengers on trains: 13
+
+	Created passenger at station 0 heading to 8
+	Created passenger at station 4 heading to 7
+	Created passenger at station 0 heading to 1
+	Created passenger at station 8 heading to 9
+	Created passenger at station 2 heading to 3
+	Created passenger at station 7 heading to 9
+-->Time Marker 17	 passengers waiting: 97	 passengers on trains: 13
+
+	Created passenger at station 3 heading to 6
+	Created passenger at station 2 heading to 5
+	Created passenger at station 0 heading to 1
+	Created passenger at station 2 heading to 9
+	Created passenger at station 2 heading to 8
+-->Time Marker 18	 passengers waiting: 102	 passengers on trains: 13
+
+	Created passenger at station 2 heading to 6
+	Created passenger at station 6 heading to 9
+	Created passenger at station 7 heading to 8
+	Created passenger at station 5 heading to 9
+	Created passenger at station 1 heading to 8
+	Created passenger at station 4 heading to 8
+-->Time Marker 19	 passengers waiting: 108	 passengers on trains: 13
+
+	Created train 3
+	Created passenger at station 3 heading to 4
+	Created passenger at station 0 heading to 4
+	Train 3 unloaded 0 passengers at station 0
+		loaded 10 passengers; Space left 0
+-->Time Marker 20	 passengers waiting: 100	 passengers on trains: 23
+
+	Created passenger at station 0 heading to 2
+	Created passenger at station 0 heading to 1
+	Created passenger at station 0 heading to 4
+	Created passenger at station 3 heading to 4
+	Created passenger at station 7 heading to 8
+	Created passenger at station 0 heading to 6
+	Created passenger at station 2 heading to 4
+-->Time Marker 21	 passengers waiting: 107	 passengers on trains: 23
+
+	Created passenger at station 4 heading to 8
+	Created passenger at station 3 heading to 7
+	Created passenger at station 1 heading to 2
+	Created passenger at station 0 heading to 1
+	Created passenger at station 1 heading to 2
+	Created passenger at station 4 heading to 5
+	Created passenger at station 0 heading to 5
+	Created passenger at station 0 heading to 1
+	Created passenger at station 0 heading to 4
+	Created passenger at station 0 heading to 1
+	Created passenger at station 2 heading to 8
+-->Time Marker 22	 passengers waiting: 118	 passengers on trains: 23
+
+	Created passenger at station 2 heading to 7
+	Created passenger at station 1 heading to 2
+	Created passenger at station 3 heading to 5
+	Created passenger at station 6 heading to 7
+	Created passenger at station 0 heading to 1
+-->Time Marker 23	 passengers waiting: 123	 passengers on trains: 23
+
+	Created passenger at station 1 heading to 7
+	Created passenger at station 3 heading to 7
+	Created passenger at station 6 heading to 9
+-->Time Marker 24	 passengers waiting: 126	 passengers on trains: 23
+
+	Created passenger at station 5 heading to 6
+	Created passenger at station 2 heading to 4
+	Created passenger at station 4 heading to 8
+-->Time Marker 25	 passengers waiting: 129	 passengers on trains: 23
+
+	Created passenger at station 5 heading to 6
+-->Time Marker 26	 passengers waiting: 130	 passengers on trains: 23
+
+	Created passenger at station 8 heading to 9
+	Created passenger at station 1 heading to 7
+	Created passenger at station 0 heading to 1
+	Created passenger at station 0 heading to 1
+	Created passenger at station 4 heading to 5
+	Created passenger at station 0 heading to 2
+	Created passenger at station 2 heading to 6
+	Created passenger at station 2 heading to 8
+	Created passenger at station 4 heading to 6
+	Created passenger at station 1 heading to 3
+-->Time Marker 27	 passengers waiting: 140	 passengers on trains: 23
+
+	Created passenger at station 1 heading to 9
+	Created passenger at station 5 heading to 7
+	Created passenger at station 5 heading to 6
+	Created passenger at station 2 heading to 4
+	Created passenger at station 3 heading to 5
+-->Time Marker 28	 passengers waiting: 145	 passengers on trains: 23
+
+	Created passenger at station 1 heading to 5
+	Created passenger at station 5 heading to 8
+	Created passenger at station 1 heading to 2
+	Created passenger at station 4 heading to 6
+	Created passenger at station 2 heading to 6
+	Created passenger at station 6 heading to 7
+	Created passenger at station 5 heading to 7
+	Created passenger at station 4 heading to 5
+	Created passenger at station 1 heading to 7
+	Created passenger at station 0 heading to 6
+	Created passenger at station 0 heading to 1
+-->Time Marker 29	 passengers waiting: 156	 passengers on trains: 23
+
+	Created train 4
+	Created passenger at station 3 heading to 9
+	Created passenger at station 1 heading to 7
+	Created passenger at station 4 heading to 9
+	Created passenger at station 1 heading to 2
+	Created passenger at station 5 heading to 7
+	Created passenger at station 1 heading to 2
+	Created passenger at station 2 heading to 8
+	Created passenger at station 4 heading to 5
+	Created passenger at station 5 heading to 7
+	Created passenger at station 2 heading to 4
+	Train 4 unloaded 0 passengers at station 0
+		loaded 10 passengers; Space left 0
+-->Time Marker 30	 passengers waiting: 156	 passengers on trains: 33
+
+	Created passenger at station 5 heading to 6
+	Created passenger at station 0 heading to 1
+	Created passenger at station 2 heading to 4
+	Created passenger at station 4 heading to 5
+	Created passenger at station 1 heading to 6
+-->Time Marker 31	 passengers waiting: 161	 passengers on trains: 33
+
+	Created passenger at station 1 heading to 2
+	Created passenger at station 2 heading to 3
+	Created passenger at station 3 heading to 6
+	Created passenger at station 0 heading to 3
+	Created passenger at station 1 heading to 2
+	Created passenger at station 0 heading to 4
+	Created passenger at station 1 heading to 6
+	Created passenger at station 0 heading to 4
+	Created passenger at station 2 heading to 3
+	Created passenger at station 1 heading to 4
+	Created passenger at station 0 heading to 7
+-->Time Marker 32	 passengers waiting: 172	 passengers on trains: 33
+
+	Created passenger at station 1 heading to 2
+-->Time Marker 33	 passengers waiting: 173	 passengers on trains: 33
+
+	Created passenger at station 6 heading to 7
+	Created passenger at station 2 heading to 5
+	Created passenger at station 2 heading to 4
+	Created passenger at station 1 heading to 2
+-->Time Marker 34	 passengers waiting: 177	 passengers on trains: 33
+
+	Created passenger at station 1 heading to 8
+	Created passenger at station 1 heading to 7
+	Created passenger at station 4 heading to 7
+	Created passenger at station 3 heading to 7
+	Created passenger at station 6 heading to 9
+	Created passenger at station 0 heading to 1
+	Created passenger at station 6 heading to 9
+-->Time Marker 35	 passengers waiting: 184	 passengers on trains: 33
+
+	Created passenger at station 4 heading to 6
+	Created passenger at station 0 heading to 3
+	Created passenger at station 1 heading to 9
+	Created passenger at station 6 heading to 8
+	Created passenger at station 0 heading to 6
+	Created passenger at station 0 heading to 2
+	Created passenger at station 0 heading to 4
+	Created passenger at station 3 heading to 5
+	Created passenger at station 3 heading to 5
+	Created passenger at station 6 heading to 9
+	Created passenger at station 2 heading to 4
+-->Time Marker 36	 passengers waiting: 195	 passengers on trains: 33
+
+	Created passenger at station 2 heading to 7
+	Created passenger at station 8 heading to 9
+	Created passenger at station 8 heading to 9
+-->Time Marker 37	 passengers waiting: 198	 passengers on trains: 33
+
+	Created passenger at station 4 heading to 5
+	Created passenger at station 3 heading to 4
+	Created passenger at station 0 heading to 7
+	Created passenger at station 3 heading to 5
+	Created passenger at station 4 heading to 6
+	Created passenger at station 0 heading to 5
+	Created passenger at station 1 heading to 4
+	Created passenger at station 5 heading to 7
+	Created passenger at station 2 heading to 6
+	Created passenger at station 6 heading to 9
+	Created passenger at station 2 heading to 9
+-->Time Marker 38	 passengers waiting: 209	 passengers on trains: 33
+
+	Created passenger at station 1 heading to 5
+	Created passenger at station 5 heading to 8
+	Created passenger at station 3 heading to 7
+	Created passenger at station 1 heading to 8
+-->Time Marker 39	 passengers waiting: 213	 passengers on trains: 33
+
+	Created train 5
+	Created passenger at station 0 heading to 1
+	Created passenger at station 1 heading to 2
+	Created passenger at station 2 heading to 7
+	Created passenger at station 8 heading to 9
+	Created passenger at station 6 heading to 9
+	Train 5 unloaded 0 passengers at station 0
+		loaded 10 passengers; Space left 0
+-->Time Marker 40	 passengers waiting: 208	 passengers on trains: 43
+
+	Created passenger at station 0 heading to 9
+	Created passenger at station 1 heading to 5
+	Created passenger at station 0 heading to 3
+	Created passenger at station 5 heading to 7
+	Created passenger at station 0 heading to 1
+	Created passenger at station 8 heading to 9
+	Created passenger at station 2 heading to 4
+	Created passenger at station 1 heading to 2
+	Created passenger at station 0 heading to 1
+-->Time Marker 41	 passengers waiting: 217	 passengers on trains: 43
+
+	Created passenger at station 0 heading to 3
+	Created passenger at station 4 heading to 6
+	Created passenger at station 3 heading to 8
+	Created passenger at station 1 heading to 5
+-->Time Marker 42	 passengers waiting: 221	 passengers on trains: 43
+
+	Created passenger at station 1 heading to 5
+	Created passenger at station 4 heading to 7
+	Created passenger at station 0 heading to 7
+	Created passenger at station 0 heading to 3
+	Created passenger at station 0 heading to 1
+	Created passenger at station 3 heading to 4
+	Created passenger at station 5 heading to 6
+	Created passenger at station 1 heading to 2
+	Created passenger at station 0 heading to 1
+-->Time Marker 43	 passengers waiting: 230	 passengers on trains: 43
+
+	Created passenger at station 4 heading to 7
+	Created passenger at station 0 heading to 1
+	Created passenger at station 1 heading to 8
+-->Time Marker 44	 passengers waiting: 233	 passengers on trains: 43
+
+	Created passenger at station 0 heading to 1
+	Created passenger at station 3 heading to 5
+	Created passenger at station 1 heading to 3
+	Created passenger at station 5 heading to 9
+	Created passenger at station 0 heading to 1
+	Created passenger at station 6 heading to 7
+	Created passenger at station 3 heading to 6
+-->Time Marker 45	 passengers waiting: 240	 passengers on trains: 43
+
+	Created passenger at station 0 heading to 1
+	Created passenger at station 0 heading to 4
+	Created passenger at station 1 heading to 6
+	Created passenger at station 1 heading to 2
+	Created passenger at station 2 heading to 3
+	Created passenger at station 1 heading to 6
+	Created passenger at station 0 heading to 1
+	Created passenger at station 0 heading to 2
+	Created passenger at station 0 heading to 1
+	Created passenger at station 1 heading to 4
+	Created passenger at station 0 heading to 3
+-->Time Marker 46	 passengers waiting: 251	 passengers on trains: 43
+
+	Created passenger at station 2 heading to 5
+-->Time Marker 47	 passengers waiting: 252	 passengers on trains: 43
+
+	Created passenger at station 4 heading to 6
+	Created passenger at station 2 heading to 7
+	Created passenger at station 0 heading to 1
+-->Time Marker 48	 passengers waiting: 255	 passengers on trains: 43
+
+	Created passenger at station 1 heading to 9
+	Created passenger at station 0 heading to 1
+	Created passenger at station 4 heading to 7
+	Created passenger at station 2 heading to 7
+	Created passenger at station 1 heading to 4
+	Created passenger at station 2 heading to 6
+	Created passenger at station 5 heading to 7
+	Created passenger at station 0 heading to 2
+	Created passenger at station 2 heading to 7
+-->Time Marker 49	 passengers waiting: 264	 passengers on trains: 43
+
+*****************  Final Report  ***************
+The total number of passengers is 307
+The number of passengers currently on a train 43
+The number of passengers delivered is 0
+The number of passengers waiting is 264
+The average wait time for passengers that have boarded is 11.98
+
+Process finished with exit code 0
+
+
+
+
+
+Application #3 Sample Output
+
+
+Exception in thread "main" java.lang.NullPointerException
+	at SchedulingSimulation.runSimulation(SchedulingSimulation.java:47)
+	at SchedulingSimulation.main(SchedulingSimulation.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+***STARTING THE SIMULATION WITH PRIORITY MODE SET TO SORT_BY_PRIORITY***
+
+Process finished with exit code 1
+
+
+Application #4 Sample Output
+
+**************  TESTING DROPOUT STACK  **************
+
+---->  Adding 20 items to empty stack of capacity of 20
+---->  The content of the stack is:
+[19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+----> The top of the stack is: 19
+
+----> Adding 5 more items to full stack
+push 20
+push 21
+push 22
+push 23
+push 24
+---->  The content of the stack is:
+[24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5]
+----> The top of the stack is: 24
+
+---->  Removing all elements from the stack:
+----> pop 24
+----> pop 23
+----> pop 22
+----> pop 21
+----> pop 20
+----> pop 19
+----> pop 18
+----> pop 17
+----> pop 16
+----> pop 15
+----> pop 14
+----> pop 13
+----> pop 12
+----> pop 11
+----> pop 10
+----> pop 9
+----> pop 8
+----> pop 7
+----> pop 6
+----> pop 5
+The stack is empty
+----> The top of the stack is: null
+
+----> Trying to pop from the empty stack
+----> Got back null
+
+----> Trying to peek at the top of the empty stack
+----> Got back null
+
+----> Adding 22 items to empty stack of capacity of 20
+---->  The content of the stack is:
+[21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2]
+
+---->  Clearing the stack with the clear method
+---->  The content of the stack is:
+The stack is empty
+
+Process finished with exit code 0

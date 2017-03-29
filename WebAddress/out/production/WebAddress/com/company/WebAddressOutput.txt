@@ -1,0 +1,6 @@
+WebAddress Output- Joshua Steward
+Welcome to DrJava.  Working directory is C:\Users\Joshua\Documents\Comp 150
+> run WebAddress
+Enter web address:  [DrJava Input Box]
+This is a government web address.
+> 

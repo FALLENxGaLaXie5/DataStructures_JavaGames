@@ -1,0 +1,16 @@
+Joshua Steward
+
+PostalCode UML Diagram
+
+PostalCode
+
+zipCode: String
+barCode: String
+PostalCode(String: zipCode)
+setZipCode(String:zipCode):void
+setBarCode():void
+calculateChecksum(String: zipStr):int
+calculateCheckigit(int: checkSum):int
+getBarCode():String
+getZipCode():String
+toString():String

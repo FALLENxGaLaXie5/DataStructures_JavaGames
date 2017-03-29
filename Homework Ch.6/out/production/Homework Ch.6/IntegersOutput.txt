@@ -1,0 +1,15 @@
+Integers Sample Output - Joshua Steward
+
+"C:\Program Files\Java\jdk1.7.0_67\bin\java" -Didea.launcher.port=7532 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 13.1.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.7.0_67\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jfxrt.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext\zipfs.jar;C:\Users\Joshua\IdeaProjects\Homework Ch.6\out\production\Homework Ch.6;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 13.1.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain IntegerInput
+Enter a starting integer > 21
+Enter another integer > 11
+Enter another integer > 13
+Enter another integer > 40
+40
+Enter another integer > 19
+Enter another integer > 18
+Enter another integer > 23
+23
+Enter another integer > 20
+
+Process finished with exit code 0

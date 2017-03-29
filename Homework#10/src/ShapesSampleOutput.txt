@@ -1,0 +1,15 @@
+Grocery Store Sample Output
+
+Joshua Steward
+
+Connected to the target VM, address: '127.0.0.1:55766', transport: 'socket'
+name: Eddie's
+annual revenue: 3523450.45
+chain: false
+name: Eddie's
+annual revenue: 4321090.65
+chain: true
+gs1 and gs2 are not equal - CORRECT
+gs1 and gs2 are not equal - CORRECT
+gs1 and gs2 are not equal - CORRECT
+gs1 and gs2 are equal - CORRECT

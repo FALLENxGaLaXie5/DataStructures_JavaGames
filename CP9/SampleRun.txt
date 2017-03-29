@@ -1,0 +1,41 @@
+> run GarageClient
+Cars in garage1: 
+Model: BMW; miles driven: 10; gallons of gas: 25.0
+Model: BMW; miles driven: 20; gallons of gas: 35.0
+
+Cars in garage2: 
+Model: Volvo; miles driven: 100; gallons of gas: 25.0
+Model: Ford; miles driven: 200; gallons of gas: 35.0
+
+The garages are not equal - CORRECT
+
+Average number of miles per car in garage1: 15.0
+
+Total gallons used by cars in garage1: 60.0
+
+After changing, cars in garage1: 
+Model: Volvo; miles driven: 100; gallons of gas: 25.0
+Model: Ford; miles driven: 200; gallons of gas: 35.0
+
+The garages are now equal - CORRECT
+
+Adding new car to garage1
+Cars in garage1: 
+Model: Volvo; miles driven: 100; gallons of gas: 25.0
+Model: Ford; miles driven: 200; gallons of gas: 35.0
+Model: Nissan; miles driven: 80; gallons of gas: 25.0
+
+Cars in garage2: 
+Model: Volvo; miles driven: 100; gallons of gas: 25.0
+Model: Ford; miles driven: 200; gallons of gas: 35.0
+
+The following cars in garage1 have milage below 150 :
+Model: Volvo; miles driven: 100; gallons of gas: 25.0
+Model: Nissan; miles driven: 80; gallons of gas: 25.0
+
+The oldest car in garage2 is: Model: Ford; miles driven: 200; gallons of gas: 35.0
+
+With 3 cars, garage occupancy is: below minimum
+With 28 cars, garage occupancy is: normal load
+With 128 cars, garage occupancy is: full
+> 

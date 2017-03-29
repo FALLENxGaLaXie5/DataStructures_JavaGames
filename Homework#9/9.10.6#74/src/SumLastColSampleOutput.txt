@@ -1,0 +1,7 @@
+9.10.6#74 Sample Output
+
+Joshua Steward
+
+The sum of the last columns is 18
+
+Process finished with exit code 0

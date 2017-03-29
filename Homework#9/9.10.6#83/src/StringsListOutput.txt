@@ -1,0 +1,15 @@
+StringsList - Sample Output
+
+Joshua Steward
+
+The list: 
+hi
+no
+bye
+yo
+why
+ti
+
+This list has an even number of elements.
+
+Process finished with exit code 0

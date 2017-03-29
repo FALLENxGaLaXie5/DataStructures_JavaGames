@@ -1,0 +1,9 @@
+true,Candy,4,50
+true,Chips,3,2
+false,Gum,2,25
+true,Cookies,6,0
+false,Ice Cream,1
+false,Dark Chocolate,10,10
+true,Candy Cane,-3,5
+true,Gummy Bears,2,-2
+false,Peppermint Pattie,3,100

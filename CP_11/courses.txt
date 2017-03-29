@@ -1,0 +1,17 @@
+Comp101;Computer Literacy;CS;false;3
+Comp102;Web Development;CS;false;3
+Comp105;Computer Programming Intro;CS;false;3
+Comp150;Object Oriented Programming;CS;true;4
+Comp151;Data Structures & Program Design;CS;true;4
+Comp162;Computer Architecture & Assembly Languages;CS;true;3
+Comp221;Unix System Programming 1;CS;false;3
+Comp232;Programming Languages;CS;true;3
+Comp262;Computer Organization & Architecture;CS;true;3
+Comp337;Survey of Computer Gaming;CS;false;6
+Comp345;Digital Image Processing;CS;false;3
+Comp350;Software Engineering;CS;true;3
+Comp362;Operating Systems;CS;true;3
+Comp420;Database Theory & Design;CS;false
+Comp424;Computer System Security;CS;false;3
+Comp447;Societal Issues in Computing;CS;true;3
+Comp490;Special Topic;CS;false;5

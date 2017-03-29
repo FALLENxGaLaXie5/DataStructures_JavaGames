@@ -1,0 +1,117 @@
+PreLab 14 Exercises
+
+
+Joshua Steward
+
+
+Page 778
+
+
+Exercise 1
+
+
+	A	B	C	D	E	F	G	H	I
+
+A		T		T	T
+
+B					T	
+
+C		B
+
+D							T
+
+E						T		T
+
+F			T					T
+
+G								T
+
+H									T
+
+I						T
+
+
+
+
+
+Exercise 2
+
+ 	A	B	C	D	E	F	G	H	I	
+
+A		2		5	4
+
+B					1
+
+C		3
+
+D							2
+
+E						3		6
+
+F			4					3
+
+G								1
+
+H									1
+
+I						1
+
+
+
+Exercise 3
+
+
+
+A >	B, D, E
+
+B > 	E
+
+C >	B
+
+D >	G
+
+E >	F, H
+
+F >	C, H
+
+G >	H
+
+H >	I
+
+I >	F
+
+
+
+Exercise 4
+
+
+
+A >	2 : B, 5 : D, 4: E
+
+B > 	1 : E
+
+C > 	3 : B
+
+D > 	2 : G
+
+E > 	3: F, 6 : H
+
+F > 	4 : C, 3: H
+
+G > 	1 : H
+
+H > 	1 : I
+
+I > 	1 : F
+
+
+
+Exercise 5
+
+
+If every pair of vertices is connected
+to another node in the graph, 
+as in a complete graph, then the adjacency 
+matrix will be just as space-efficient 
+as the adjacency list for that graph.
+

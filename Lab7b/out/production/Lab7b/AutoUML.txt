@@ -1,0 +1,18 @@
+UML Diagram - Joshua Steward
+
+
+			Airport
+- airportCode: String
+- gates: int
+- countAirports: int
+
++ Airport()
++ Airports(airportCode: String,
+		gates: int)
++ getAirportCode(): String
++ getGates(): int
++ getCountAirpots(): int
++ setAirportCode(airportCode: String): void
++ setGates(gates: int): void
++ toString(): String
++ equals(other: Airport): boolean

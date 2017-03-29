@@ -1,0 +1,255 @@
+SortedLinkedListWithMode
+
+
+
+The data has 10 elements: 0 1 2 3 4 5 6 7 8 9 
+The mode should be 0, got: 0
+
+The data has 55 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 
+The mode should be 9, got: 9
+
+The data has 133 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 10 10 11 11 11 12 12 12 12 13 13 13 13 13 14 14 14 14 14 14 15 15 15 15 15 15 15 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 
+The mode should be 20, got: 20
+
+The data has 147 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 10 10 11 11 11 12 12 12 12 13 13 13 13 13 14 14 14 14 14 14 15 15 15 15 15 15 15 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 
+The mode should be 6, got: 6
+
+The data has 1 elements: 9 
+The mode should be 9, got: 9
+
+Process finished with exit code 0
+
+
+
+
+
+
+SortedArrayListWithMode
+
+
+
+The data has 10 elements: 0 1 2 3 4 5 6 7 8 9 
+The mode should be 0, got: 0
+
+The data has 55 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 
+The mode should be 9, got: 9
+
+The data has 133 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 10 10 11 11 11 12 12 12 12 13 13 13 13 13 14 14 14 14 14 14 15 15 15 15 15 15 15 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 
+The mode should be 20, got: 20
+
+The data has 147 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 10 10 11 11 11 12 12 12 12 13 13 13 13 13 14 14 14 14 14 14 15 15 15 15 15 15 15 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 
+The mode should be 6, got: 6
+
+The data has 1 elements: 9 
+The mode should be 9, got: 9
+
+Process finished with exit code 0
+
+
+
+SortedListWithMode
+
+
+The data has 1 elements: 0 
+The mode should be 0, got: 0
+
+The data has 10 elements: 0 1 2 3 4 5 6 7 8 9 
+The mode should be 0, got: 0
+
+The data has 55 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 
+The mode should be 9, got: 9
+
+The data has 133 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 10 10 11 11 11 12 12 12 12 13 13 13 13 13 14 14 14 14 14 14 15 15 15 15 15 15 15 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 
+The mode should be 20, got: 20
+
+The data has 147 elements: 0 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 10 10 11 11 11 12 12 12 12 13 13 13 13 13 14 14 14 14 14 14 15 15 15 15 15 15 15 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20 
+The mode should be 6, got: 6
+
+Process finished with exit code 0
+
+
+
+
+
+MessageDriver
+
+
+
+Enter the message to be sent
+I love Data Structures
+Enter the packet size (no smaller than 3)
+3
+The original message is "I love Data Structures"
+Sent packets:[0 I l, 1 ove, 2  Da, 3 ta , 4 Str, 5 uct, 6 ure, 7 s]
+Received packets:[4 Str, 2  Da, 0 I l, 1 ove, 7 s, 6 ure, 3 ta , 5 uct]
+The message assembled back is "I love Data Structures"
+
+
+Done.
+
+Process finished with exit code 0
+
+
+
+
+Enter the message to be sent
+abc
+Enter the packet size (no smaller than 3)
+3
+The original message is "abc"
+Sent packets:[1 abc]
+Received packets:[1 abc]
+The message assembled back is "abc"
+
+
+Done.
+
+Process finished with exit code 0
+
+
+
+Enter the message to be sent
+ab
+Enter the packet size (no smaller than 3)
+3
+The original message is "ab"
+Sent packets:[1 ab]
+Received packets:[1 ab]
+The message assembled back is "ab"
+
+
+Done.
+
+Process finished with exit code 0
+
+
+
+
+Trinary Search
+
+
+Accounts are:
+[0] 5658845
+[1] 8080152
+[2] 1005231
+[3] 4520125
+[4] 4562555
+[5] 6545231
+[6] 7895122
+[7] 5552012
+[8] 3852085
+[9] 8777541
+[10] 5050552
+[11] 7576651
+[12] 8451277
+[13] 7825877
+[14] 7881200
+[15] 1302850
+[16] 1250255
+[17] 4581002
+Sorted accounts are:
+[0] 1005231
+[1] 1250255
+[2] 1302850
+[3] 3852085
+[4] 4520125
+[5] 4562555
+[6] 4581002
+[7] 5050552
+[8] 5552012
+[9] 5658845
+[10] 6545231
+[11] 7576651
+[12] 7825877
+[13] 7881200
+[14] 7895122
+[15] 8080152
+[16] 8451277
+[17] 8777541
+
+trinarySearch: element 7881200 is found true
+   PASS
+
+trinarySearch: element 7881199 is found false
+   PASS
+
+trinarySearch: element 7881201 is found false
+   PASS
+
+trinarySearch: element 2222222 is found false
+   PASS
+
+trinarySearch: element 9999999 is found false
+   PASS
+
+trinarySearch: element 0000000 is found false
+   PASS
+
+trinarySearch: element 1111111 is found false
+   PASS
+
+trinarySearch: element 1005231 is found true
+   PASS
+
+trinarySearch: element 8777541 is found true
+   PASS
+
+Process finished with exit code 0
+
+
+
+Interval Search
+
+
+How many elements in the array?
+13
+The sorted data is:
+[0]=8  [1]=8  [2]=13  [3]=22  [4]=30  [5]=39  [6]=41  [7]=44  [8]=46  [9]=53  [10]=59  [11]=61  [12]=62  
+Enter the list of integer values separated by spaces (all on one line), or just press enter if you are done.
+2 3
+Target list is [2, 3]
+Smallest target is 2; largest target is 3
+
+
+
+How many elements in the array?
+13
+The sorted data is:
+[0]=0  [1]=3  [2]=4  [3]=7  [4]=12  [5]=21  [6]=25  [7]=26  [8]=32  [9]=33  [10]=34  [11]=39  [12]=48  
+Enter the list of integer values separated by spaces (all on one line), or just press enter if you are done.
+60 70
+Target list is [60, 70]
+Smallest target is 60; largest target is 70
+The interval is: (13, 13)
+
+Enter the list of integer values separated by spaces (all on one line), or just press enter if you are done.
+
+
+
+
+How many elements in the array?
+13
+The sorted data is:
+[0]=2  [1]=9  [2]=13  [3]=17  [4]=23  [5]=24  [6]=30  [7]=33  [8]=35  [9]=37  [10]=43  [11]=43  [12]=48  
+Enter the list of integer values separated by spaces (all on one line), or just press enter if you are done.
+11 27
+Target list is [11, 27]
+Smallest target is 11; largest target is 27
+
+
+
+
+InterpolationSearch
+
+Searching the array
+-10 -5 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 34 99 100 200 10000 
+
+PASSES: 14 was found
+PASSES: -10 was found
+PASSES: 10000 was found
+PASSES: 200 was found
+PASSES: 23456 was not found
+PASSES: -6 was not found
+PASSES: 35 was not found
+
+Process finished with exit code 0

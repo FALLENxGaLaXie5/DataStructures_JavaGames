@@ -1,0 +1,102 @@
+RUNNING TEST CASES
+
+***Testing display method***
+bag1:
+There are 5 element(s): C A A A X 
+bag2:
+There are 0 element(s): 
+After removing the last element X from bag1, it contains
+There are 4 element(s): C A A A 
+
+***Testing equals method***
+Are bag1 and bag2 equal? --> NO
+Are bag2 and bag1 equal? --> NO
+bag2:
+There are 5 element(s): A A A C X 
+Are bag1 and bag2 equal? --> NO
+Removed X from bag2.
+There are 4 element(s): A A A C 
+Are bag1 and bag2 equal now? --> NO
+Created bagCopyOfBag1:
+There are 4 element(s): C A A A 
+Are bag1 and bagCopyOfBag1 equal? --> YES
+
+***Testing union, intersection, difference, removeMax, getAllLessThan and isSubset methods***
+bag1:
+There are 5 element(s): C A A X A 
+bag2:
+There are 7 element(s): A B B A C C D 
+
+***Testing union method***
+The union of bag1 and bag2 is 
+There are 12 element(s): C A A X A A B B A C C D 
+
+***Testing removeMax method***
+Removed the largest element "X" from the union bag; the current content is:
+There are 11 element(s): C A A D A A B B A C C 
+The bag is empty and removeMax returned null - CORRECT
+
+***Testing intersection method***
+The intersection of bag1 and bag2 is 
+There are 3 element(s): C A A 
+
+***Testing difference method***
+The difference of bag1 and bag2 is 
+There are 2 element(s): A A 
+The difference of bag2 and bag1 is 
+There are 4 element(s): C C B A 
+
+***Testing getAllLessThan method***
+The following entries in bag1 are smaller than "Z" 
+There are 5 element(s): C A A X A 
+The following entries in bag2 are smaller than "C" 
+There are 4 element(s): A B B A 
+
+***Testing isSubset method***
+isSubset method - IMPLEMENT ME
+Is bag1 a subset of bag1 ? --> NO
+isSubset method - IMPLEMENT ME
+Is bag1 a subset of bag2 ? --> NO
+isSubset method - IMPLEMENT ME
+Is an empty bag a subset of bag2 ? --> NO
+isSubset method - IMPLEMENT ME
+Is bag2 a subset of an empty bag ? --> NO
+Created bag3:
+There are 3 element(s): A B C 
+Created bag4:
+There are 3 element(s): B C A 
+isSubset method - IMPLEMENT ME
+Is bag3 a subset of bag4 ? --> NO
+isSubset method - IMPLEMENT ME
+Is bag3 a subset of bag4 after adding "Z" to it ? --> NO
+isSubset method - IMPLEMENT ME
+Is bag4 a subset of bag3 ? --> NO
+Adding  "Z" to bag 3 twice
+bag3:
+There are 5 element(s): A B C Z Z 
+bag4:
+There are 4 element(s): B C A Z 
+isSubset method - IMPLEMENT ME
+Is bag3 a subset of bag4 ? --> NO
+
+***Testing replace method***
+bag1:
+There are 7 element(s): A A B X A C A 
+Replacing an element with "X"
+Now bag1 contains:
+There are 7 element(s): A A B X A C X 
+
+***Testing removeEvery method***
+bag1:
+There are 7 element(s): A A B X A C X 
+Removing all "Z"
+After removing all "Z" bag1 contains:
+There are 7 element(s): A A B X A C X 
+Removing all "A"
+After removing all "A" bag1 contains:
+There are 4 element(s): X C B X 
+Removing all "X"
+After removing all "X" bag1 contains:
+There are 2 element(s): B C 
+
+Process finished with exit code 0

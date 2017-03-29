@@ -1,0 +1,13 @@
+AirportClient- Output
+
+Joshua Steward
+
+The airport1 is: Airport Code: IAD
+Gates: 30
+The airport2 is: Airport Code: IAD
+Gates: 30
+countAirports is 2
+Result of comparing airport1 and airport2 with == operator is: airport1 and airport2 are not equal
+Result of comparing airport1 and airport2 with equals method is: airport1 and airport2 are equal
+
+Process finished with exit code 1

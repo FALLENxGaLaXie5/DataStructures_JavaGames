@@ -1,0 +1,138 @@
+Reading inventory from the file:
+Item does not exist. Ignoring
+Finished reading the file.
+
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+2
+Please insert $2.00
+>>> Collect your item at the bottom tray and enjoy.
+
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+3
+Please insert $6.00
+>>> Collect your item at the bottom tray and enjoy.
+
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+4
+Please insert $10.00
+>>> Collect your item at the bottom tray and enjoy.
+
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+0
+Please insert $4.00
+>>> Collect your item at the bottom tray and enjoy.
+
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+4
+Please insert $10.00
+>>> Collect your item at the bottom tray and enjoy.
+
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+0
+Please insert $4.00
+>>> Collect your item at the bottom tray and enjoy.
+
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+CandyMachine Sample Output
+
+Joshua Steward
+
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+9
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+5
+Please insert -$3.00
+>>> Collect your item at the bottom tray and enjoy.
+
+***Welcome to Anna's Candy Place***
+To select an item, enter: 
+0 for Candy @ $4.00 plus sales tax of 7% (inventory of 50)
+1 for Chips @ $3.00 plus sales tax of 7% (inventory of 2)
+2 for Gum @ $2.00 no sales tax (inventory of 25)
+3 for Cookies @ $6.00 plus sales tax of 7% (inventory of 0)
+4 for Dark Chocolate @ $10.00 no sales tax (inventory of 10)
+5 for Peppermint Pattie @ $3.00 no sales tax (inventory of 100)
+-1 to exit
+-1
+
+** Receipt **
+You bought 7 items: 
+2 Candy@ 4.0 plus sales tax of 7.0% (inventory of 48)1 @ 2.0 no sales tax (inventory of 24)1 Cookies@ 6.0 plus sales tax of 7.0% (inventory of -1)2 @ 10.0 no sales tax (inventory of 8)1 Candy Cane@ -3.0 plus sales tax of 7.0% (inventory of 4)==============
+Grand total: $19.00
+
+**** Remaining inventory ****
+There is $83.00 in the cash register.
+Content of the dispenser: 
+48 items of Candy
+2 items of Chips
+24 items of Gum
+-1 items of Cookies
+8 items of Dark Chocolate
+4 items of Candy Cane
+-2 items of Gummy Bears
+100 items of Peppermint Pattie
+
+Process finished with exit code 0

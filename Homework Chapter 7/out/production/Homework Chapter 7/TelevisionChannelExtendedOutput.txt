@@ -1,0 +1,35 @@
+Television Channel Extended Sample Output
+
+Joshua Steward
+
+Sample Output #1
+
+Please enter channel name here: Disney Channel
+Please enter channel number here: 11
+Please enter whether it is cable or not (true/false): true
+On your channel, Disney Channel, the channel number is 11, and it is true that it is cable. It also has 2 number of digits.
+We are changing the channel to Disney Channel, which is on channel 11, and it is true that it is cable.
+Channel 11 has 2 digits.
+Channel Name: Disney Channel
+Channel Number: 11
+Cable: true
+Disney Channel is cable.
+It is true that the previous channel, Disney Channel equals Disney Channel.
+
+Process finished with exit code 0
+
+Sample Output #2
+
+Please enter channel name here: DisneyXD
+Please enter channel number here: 212
+Please enter whether it is cable or not (true/false): false
+On your channel, DisneyXD, the channel number is 212, and it is false that it is cable. It also has 3 number of digits.
+We are changing the channel to Disney Channel, which is on channel 11, and it is true that it is cable.
+Channel 11 has 2 digits.
+Channel Name: Disney Channel
+Channel Number: 11
+Cable: true
+Disney Channel is cable.
+It is false that the previous channel, DisneyXD equals Disney Channel.
+
+Process finished with exit code 0

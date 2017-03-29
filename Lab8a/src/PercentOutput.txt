@@ -1,0 +1,34 @@
+Lab8a - NumbersOver90Percent Method Output
+
+Joshua Steward
+
+Created arr1 object with the secondary constructor.
+---->The elements of the array in arr1 object are: 1 2 3 4 5 6 
+
+---->The product of all elements in the array is: 720
+
+Created arr2 object with the default constructor.
+---->The elements of the array in arr2 object are: 8 5 9 5 9 6 9 8 6 9 9 5 8 9 8 
+
+---->The product of all elements in the array is: -1299890176
+
+---->The odd-indexed elements in arr2 object are:
+5 9 5 9 9 9 9 5 9 
+---->The smallest element in arr2 object is: 5
+
+Enter a value to count the frequency of
+4
+4 appears 0 times.
+
+---->The even-indexed elements in arr2 object are:
+8 9 9 9 6 9 8 8 The sum of the even indexes is 66
+
+*****
+CALL HERE
+
+Created arr4 object with the secondary constructor.
+The percent of numbers in arr4 greater than or equal to 90 is 0%.
+Created arr5 object with the secondary constructor.
+The percent of numbers in arr5 greater than or equal to 90 is 33%.
+Created arr6 object with the secondary constructor.
+The percent of numbers in arr6 greater than or equal to 90 is 100%.

@@ -1,0 +1,49 @@
+PostalCode Sample Output
+
+Joshua Steward
+
+Enter a ZIP code in the form DDDDD-DDDD
+abcd
+Your input is invalid, please re-enter
+Enter a ZIP code in the form DDDDD-DDDD
+123-456
+Your input is invalid, please re-enter
+Enter a ZIP code in the form DDDDD-DDDD
+12345678
+Your input is invalid, please re-enter
+Enter a ZIP code in the form DDDDD-DDDD
+12345-6789
+The zip string to be processed is 123456789.
+The checksum is 45.
+The zip with the check digit is 1234567895
+
+The zip code 12345-6789 has the following bar code: 
+|:::||::|:|::||::|::|:|:|::||::|:::||::|:|:|:::|:|:|
+
+Would you like to generate another bar code?
+yes
+Enter a ZIP code in the form DDDDD-DDDD
+95014-5143
+The zip string to be processed is 950145143.
+The checksum is 32.
+The zip with the check digit is 9501451438
+
+The zip code 95014-5143 has the following bar code: 
+||:|:::|:|:||::::::||:|::|:|:|::::||:|::|::||:|::|:|
+
+Would you like to generate another bar code?
+yes
+Enter a ZIP code in the form DDDDD-DDDD
+93012-1211
+The zip string to be processed is 930121211.
+The checksum is 20.
+The zip with the check digit is 9301212110
+
+The zip code 93012-1211 has the following bar code: 
+||:|::::||:||::::::||::|:|:::||::|:|:::||:::||||:::|
+
+Would you like to generate another bar code?
+no
+Goodbye!
+
+Process finished with exit code 0

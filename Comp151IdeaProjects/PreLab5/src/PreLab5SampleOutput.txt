@@ -1,0 +1,32 @@
+PreLab5- Sample Output
+
+Joshua Steward
+
+LinkedBag Get FrequencyOf Linked Sample Output
+
+***Testing getFrequencyOf method***
+Bag1 contains:
+There are 10 element(s): Z X A B A B C A B A 
+There are 1 of "Z"
+There are 1 of "X"
+There are 4 of "A"
+There are 3 of "B"
+There are 1 of "C"
+There are 0 of "K"
+
+Process finished with exit code 0
+
+
+ResizableArrayBag GetFrequencyOf Sample Output
+
+***Testing getFrequencyOf method***
+Bag1 contains:
+There are 10 element(s): A B A C B A B A X Z 
+There are 1 of "Z"
+There are 1 of "X"
+There are 4 of "A"
+There are 3 of "B"
+There are 1 of "C"
+There are 0 of "K"
+
+Process finished with exit code 0

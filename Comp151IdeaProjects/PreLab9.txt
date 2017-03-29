@@ -1,0 +1,135 @@
+Pre-Lab 9
+
+
+
+Joshua Steward
+
+
+Reversing a Linked List with chain of nodes
+
+set firstNode
+set next
+set currentNode = firstNode.next
+set q = firstNode
+
+while currentNode is not null
+	set next equal to q
+	set q equal to currentNode
+	set currentNode equal to currentNode.next
+	set q.next equal to next
+
+
+then set firstNode.next to null and firstNode equal to q
+
+
+
+
+	A > B > C > D
+
+firstNode = A Node
+currentNode = B Node
+q = A Node
+
+	next = A Node
+	q = B Node
+	currentNode = C Node
+	q.next = A Node
+
+		next = B Node
+		q = C Node
+		currentNode = D Node
+		q.next = B Node
+			
+			next = C Node
+			q = D Node
+			currentNode = null
+			q.next = C Node
+
+firstNode.next = null
+firstNode = D Node
+
+
+
+
+
+Pascal Triangle
+
+					1
+				1		1
+			1		2		1	
+		1		3		3		1
+	1			4	6	4		1
+1	5	10				10	5	1
+1	6		15		20	15	6	1
+
+
+
+
+
+
+
+
+If n length of the sequence is greater or equal to zero and other sequence is greater than or equal to zero
+
+first finds if the lengths are equal
+
+then compares the first entries, second, and so forth. holds equal entries in an array and then as soon as sequence
+is broken by unequal entries, entries are dropped from array
+Edit: subsequences do not have to be consecutive, so entries are not dropped from array when found
+
+
+aba is a subsequence aba
+
+a is held, b is held, a is hold
+
+
+abc is not a subsequence of acb
+	
+a is held
+b is not held
+c is not held
+
+
+aba	
+bcacba
+
+b is not held
+c is not held
+a is held
+c is not held
+
+
+aba
+bcacab
+
+a is held
+b is held
+c is not held
+
+
+
+
+
+
+
+
+
+
+X = abca
+Y= bcdaecaeafbabbdecdeabd
+
+
+a is held
+b is not held
+2nd through 10th are not held
+c and d are held
+
+
+X is a subsequence of Y
+
+
+
+
+
+
+

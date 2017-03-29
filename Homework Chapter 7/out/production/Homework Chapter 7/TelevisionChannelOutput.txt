@@ -1,0 +1,12 @@
+Television Channel Output
+
+Joshua Steward
+
+Please enter channel name here: DisneyXD
+Please enter channel number here: 112
+Please enter whether it is cable or not (true/false): false
+On your channel, DisneyXD, the channel number is 112, and it is false that it is cable. It also has 3 number of digits.
+We are changing the channel to Disney Channel, which is on channel 11, and it is true that it is cable.
+Channel 11 has 2 digits.
+
+Process finished with exit code 0

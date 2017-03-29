@@ -1,0 +1,20 @@
+Created arr1 object with the secondary constructor.
+---->The elements of the array in arr1 object are: 1 2 3 4 5 6 
+---->The product of all elements in the array is: 720
+
+Created arr2 object with the default constructor.
+---->The elements of the array in arr2 object are: 7 6 5 6 8 9 8 8 5 8 
+---->The product of all elements in the array is: 232243200
+
+---->The odd-indexed elements in arr2 object are:
+1. 6
+3. 6
+5. 9
+7. 8
+9. 8
+
+---->The smallest element in arr2 object is: 5
+
+Enter a value to count the frequency of
+ 8
+8 appears 4 times.

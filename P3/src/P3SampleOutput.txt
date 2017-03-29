@@ -1,0 +1,37 @@
+Joshua Steward
+
+P3 Sample Output
+
+Cryptogram@77fef1a0
+
+The original line is 	 "I would rather be a 'could be'"
+The encrypted phrase is 	 "t oynxc gsmfag ja s 'zynxc ja'"
+The decrypted phrase is 	 "i would rather be a 'could be'"
+
+The original line is 	 "if I cannot be an 'are', "
+The encrypted phrase is 	 "tq t zskkym ja sk 'sga', "
+The decrypted phrase is 	 "if i cannot be an 'are', "
+
+The original line is 	 "because a could be is a maybe who is reaching for a star. "
+The encrypted phrase is 	 "jazsnva s zynxc ja tv s dsbja ofy tv gaszftke qyg s vmsg. "
+The decrypted phrase is 	 "because a could be is a maybe who is reaching for a star. "
+
+The original line is 	 ""
+The encrypted phrase is 	 ""
+The decrypted phrase is 	 ""
+
+The original line is 	 "I would rather be a 'has been' "
+The encrypted phrase is 	 "t oynxc gsmfag ja s 'fsv jaak' "
+The decrypted phrase is 	 "i would rather be a 'has been' "
+
+The original line is 	 "than a 'might-have-been' by far; "
+The encrypted phrase is 	 "mfsk s 'dtefm-fsha-jaak' jb qsg; "
+The decrypted phrase is 	 "than a 'might-have-been' by far; "
+
+The original line is 	 "for a might-have-been has never been, "
+The encrypted phrase is 	 "qyg s dtefm-fsha-jaak fsv kahag jaak, "
+The decrypted phrase is 	 "for a might-have-been has never been, "
+
+The original line is 	 "but a 'has' was once an are. - Milton Berle"
+The encrypted phrase is 	 "jnm s 'fsv' osv ykza sk sga. - dtxmyk jagxa"
+The decrypted phrase is 	 "but a 'has' was once an are. - milton berle"

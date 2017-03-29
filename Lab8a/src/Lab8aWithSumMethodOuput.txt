@@ -1,0 +1,26 @@
+Lab 8a - Method Call Sum of Even Indexes
+
+Joshua Steward
+
+Created arr1 object with the secondary constructor.
+---->The elements of the array in arr1 object are: 1 2 3 4 5 6 
+
+---->The product of all elements in the array is: 720
+
+Created arr2 object with the default constructor.
+---->The elements of the array in arr2 object are: 7 9 9 8 9 8 7 8 9 5 9 7 5 5 8 
+
+---->The product of all elements in the array is: 1898131456
+
+---->The odd-indexed elements in arr2 object are:
+7 9 9 9 7 9 5 9 7 5 5 
+---->The smallest element in arr2 object is: 5
+
+Enter a value to count the frequency of
+8
+8 appears 4 times.
+
+***** Method call
+
+---->The even-indexed elements in arr2 object are:
+7 9 9 7 9 9 5 8 The sum of the even indexes is 63

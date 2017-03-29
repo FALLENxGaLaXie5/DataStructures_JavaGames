@@ -1,0 +1,7 @@
+Sum of ArrayList - Sample Output
+
+Joshua Steward
+
+The sum of this list is 14
+
+Process finished with exit code 0

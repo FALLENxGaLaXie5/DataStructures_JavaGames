@@ -1,0 +1,7 @@
+Averages Sample Output
+
+Joshua Steward
+
+The average of the elements is 2.769230769230769
+
+Process finished with exit code 0

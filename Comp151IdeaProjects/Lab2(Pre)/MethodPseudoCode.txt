@@ -1,0 +1,81 @@
+Joshua Steward
+
+display():
+	for loop:
+		iterate through the private instance variable bar[]
+		print each element
+
+boolean equals(BagInterface<T> otherBag):
+	result is true
+	for loop #1:
+		nested for loop:
+			variable1 is current object in loop#1
+			variable2 is current object in nested loop
+			if variable != variable2
+				result is false	
+	return result
+
+T removeMax():
+	current largest is first spot in bagArray
+	for loop (starting from index 1):
+		if current largest compared to currentIndex is larger
+			current largest is current Index
+	return current largest 
+		
+
+void removeEvery(T anEntry):
+	for loop:
+		if current index is equal to anEntry
+			remove current index
+	
+
+T replace(T replacement):
+	replaced entry is the last entry in the bagArray
+	add replacement
+	return replaced entry	
+	
+
+BagInterface<T> union(BagInterface<T> otherBag):
+	new Bag
+	for loop:(bagArray)
+		add currentObject to new bag
+	for loop: otherBag
+		add currentObject to new bag
+	return new Bag
+	
+
+BagInterface<T> intersection(BagInterface<T> otherBag):
+	create copy of arrayBag
+	create copy of otherbag
+	create new Bag
+	
+	for loop: copy of arrayBag
+		for loop: copy of otherBag
+			if current Index copy of arrayBag equals current index copy of otherBag
+				add current Index to new Bag 
+						
+
+BagInterface<T> difference(BagInterface<T> otherBag):
+	create copy of arrayBag
+	create copy of otherBag
+	create differenceBag
+	for loop: arrayBag
+		for loop: otherBag
+			if current Objects are not equal
+				add to difference bag
+	return difference Bag
+
+BagInterface<T> getAllLessThan(T anEntry):
+	create lessThanBag
+	for loop: bagArray
+		if currentObject is less than anEntry
+			add currentObject to lessThanBag
+
+
+boolean isSubset(BagInterface<T> other):
+	result = true;
+	for loop: bagArray
+		for loop: other
+			if currentObject is not equal to other currentObject
+				result = false
+	return result

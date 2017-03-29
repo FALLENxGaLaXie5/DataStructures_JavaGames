@@ -1,0 +1,7 @@
+SumOfList - Sample Output
+
+Joshua Steward
+
+The sum of this list is 18
+
+Process finished with exit code 0
